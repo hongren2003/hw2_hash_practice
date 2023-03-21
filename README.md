@@ -37,7 +37,7 @@ Please refer to the source code file for more details.
 (Input: given "hw2_data.txt")
 
 ```
-All words in the file and their freqency:
+All words in the file and their freqencies:
 Cheese  234
 Pizza   83
 Coke    145
