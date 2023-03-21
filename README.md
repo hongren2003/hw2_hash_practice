@@ -1,6 +1,6 @@
 # hw2_hash_practice
 
-Repository link: 
+Repository link: https://github.com/hongren2003/hw2_hash_practice
 
 Hong-Ren, Huang (B507110048)
 
